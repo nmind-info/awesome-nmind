@@ -15,3 +15,9 @@
 ### Data Analysis
 
 * Data36 - https://data36.com/
+
+### ETL
+
+#### SSIS
+
+* SSIS Optimizations - http://www.danielbowlin.com/ssis-optimization-techniques-part-1/
