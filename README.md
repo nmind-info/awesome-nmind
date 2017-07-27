@@ -21,3 +21,9 @@
 #### SSIS
 
 * SSIS Optimizations - http://www.danielbowlin.com/ssis-optimization-techniques-part-1/
+
+# Databases
+
+## SQL
+
+* SQL checkup toolkit - https://www.brentozar.com
