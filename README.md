@@ -1,14 +1,14 @@
 # awesome-nmind
 
-# dotnet
+## dotnet
 
-## Entity Framework
+### Entity Framework
 
 * EF Plus - https://github.com/zzzprojects/EntityFramework-Plus
 
-# Data Manager
+## Data Manager
 
-## Categorização
+### Categorização
 
 * Schema - http://schema.org/
 * Atributos de Produto - http://www.cpgdatainsights.com/understand-your-database/product-attributes/
@@ -16,21 +16,21 @@
 * WDC Product Categorization Goldstandard - http://webdatacommons.org/structureddata/2014-12/products/gs.html
 * Global Product Categorization - https://www.gs1.org/gpc
 
-# Data
+## Data
 
-## Data Analysis
+### Data Analysis
 
 * Data36 - https://data36.com/
 
-## ETL
+### ETL
 
 #### SSIS
 
 * SSIS Optimizations - http://www.danielbowlin.com/ssis-optimization-techniques-part-1/
 
-# Databases
+## Databases
 
-## SQL SERVER
+### SQL SERVER
 
 * SQL checkup toolkit - https://www.brentozar.com
 * Resource Groups - https://blog.sqlauthority.com/2012/06/04/sql-server-simple-example-to-configure-resource-governor-introduction-to-resource-governor/
