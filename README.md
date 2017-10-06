@@ -1,8 +1,14 @@
 # awesome-nmind
 
-## Data Manager
+# dotnet
 
-### Categorização
+## Entity Framework
+
+* EF Plus - https://github.com/zzzprojects/EntityFramework-Plus
+
+# Data Manager
+
+## Categorização
 
 * Schema - http://schema.org/
 * Atributos de Produto - http://www.cpgdatainsights.com/understand-your-database/product-attributes/
@@ -10,13 +16,13 @@
 * WDC Product Categorization Goldstandard - http://webdatacommons.org/structureddata/2014-12/products/gs.html
 * Global Product Categorization - https://www.gs1.org/gpc
 
-## Data
+# Data
 
-### Data Analysis
+## Data Analysis
 
 * Data36 - https://data36.com/
 
-### ETL
+## ETL
 
 #### SSIS
 
