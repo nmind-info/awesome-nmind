@@ -35,3 +35,6 @@
 * SQL checkup toolkit - https://www.brentozar.com
 * Resource Groups - https://blog.sqlauthority.com/2012/06/04/sql-server-simple-example-to-configure-resource-governor-introduction-to-resource-governor/
 
+## Segurança
+
+* Metasploit - https://www.metasploit.com/
