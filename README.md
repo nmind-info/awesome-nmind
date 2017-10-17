@@ -38,3 +38,9 @@
 ## Segurança
 
 * Metasploit - https://www.metasploit.com/
+
+## Testes
+
+### JavaScript
+
+* Istanbul - https://github.com/gotwarlost/istanbul
