@@ -1,5 +1,11 @@
 # awesome-nmind
 
+## front-end
+
+### JavaScript
+
+* Explanando JavaScript moderno - https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70
+
 ## dotnet
 
 ### Entity Framework
