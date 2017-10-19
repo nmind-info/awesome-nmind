@@ -27,6 +27,8 @@
 #### SSIS
 
 * SSIS Optimizations - http://www.danielbowlin.com/ssis-optimization-techniques-part-1/
+* http://sqlblog.com/blogs/rob_farley/archive/2011/02/17/the-ssis-tuning-tip-that-everyone-misses.aspx
+* https://datatellblog.wordpress.com/2015/01/13/ssis-data-flows-ado-net-vs-ole-db-vs-odbc/
 
 ## Databases
 
