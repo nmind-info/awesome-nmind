@@ -40,6 +40,7 @@
 * https://technet.microsoft.com/en-us/library/dd537533(v=sql.100).aspx
 * http://henkvandervalk.com/reading-as-fast-as-possible-from-a-table-with-ssis-part-ii
 * https://blogs.msdn.microsoft.com/mattm/2008/11/23/lookup-pattern-incremental-persistent-cache-updates/
+* http://microsoft-ssis.blogspot.com.br/2011/01/foreach-folder-enumerator.html
 
 ## Databases
 
