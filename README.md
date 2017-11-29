@@ -41,6 +41,7 @@
 * http://henkvandervalk.com/reading-as-fast-as-possible-from-a-table-with-ssis-part-ii
 * https://blogs.msdn.microsoft.com/mattm/2008/11/23/lookup-pattern-incremental-persistent-cache-updates/
 * http://microsoft-ssis.blogspot.com.br/2011/01/foreach-folder-enumerator.html
+* https://www.hansmichiels.com/2016/11/04/how-to-automate-your-ssis-package-deployment-and-configuration-ssis-series/
 
 ## Databases
 
