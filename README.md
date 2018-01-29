@@ -43,12 +43,19 @@
 * http://microsoft-ssis.blogspot.com.br/2011/01/foreach-folder-enumerator.html
 * https://www.hansmichiels.com/2016/11/04/how-to-automate-your-ssis-package-deployment-and-configuration-ssis-series/
 
-## Databases
+## Warehousing
 
 ### SQL SERVER
 
 * SQL checkup toolkit - https://www.brentozar.com
 * Resource Groups - https://blog.sqlauthority.com/2012/06/04/sql-server-simple-example-to-configure-resource-governor-introduction-to-resource-governor/
+
+### Data Lake
+
+#### U-SQL
+
+* Purple Frog - https://www.purplefrogsystems.com/paul/tag/u-sql/
+* Stairway to U-SQL - http://www.sqlservercentral.com/stairway/142480/
 
 ## Segurança
 
