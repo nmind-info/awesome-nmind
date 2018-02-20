@@ -6,6 +6,10 @@
 
 * Explanando JavaScript moderno - https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70
 
+### SEO
+
+* Checkbot for Chrome - https://www.checkbot.io/
+
 ## dotnet
 
 ### Entity Framework
@@ -56,6 +60,10 @@
 
 * Purple Frog - https://www.purplefrogsystems.com/paul/tag/u-sql/
 * Stairway to U-SQL - http://www.sqlservercentral.com/stairway/142480/
+
+## STACK
+
+* Stack Share - https://stackshare.io/stacks
 
 ## Segurança
 
