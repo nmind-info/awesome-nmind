@@ -49,6 +49,10 @@
 
 ## Warehousing
 
+### OLAP
+
+* Time-series data - https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c
+
 ### SQL SERVER
 
 * SQL checkup toolkit - https://www.brentozar.com
