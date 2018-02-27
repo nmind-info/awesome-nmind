@@ -78,3 +78,9 @@
 ### JavaScript
 
 * Istanbul - https://github.com/gotwarlost/istanbul
+
+## Padrões
+
+### ISO
+
+* sexos - ISO/IEC 5218 - https://en.wikipedia.org/wiki/ISO/IEC_5218
