@@ -94,4 +94,4 @@
 
 ### Visual Studio
 
-* Poor man's Resharper - https://blog.terrible.dev/VS-2017-best-extensions-on-launch/
+* Poor man's Resharper - https://blog.terrible.dev/vs-2015-getting-resharper-experiance-without-resharper/
