@@ -89,3 +89,9 @@
 ### ISO
 
 * sexos - ISO/IEC 5218 - https://en.wikipedia.org/wiki/ISO/IEC_5218
+
+## Tools
+
+### Visual Studio
+
+* Poor man's Resharper - https://blog.terrible.dev/VS-2017-best-extensions-on-launch/
