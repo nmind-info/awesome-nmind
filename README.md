@@ -90,6 +90,10 @@
 
 * sexos - ISO/IEC 5218 - https://en.wikipedia.org/wiki/ISO/IEC_5218
 
+## C
+
+* Robust Programming - http://nob.cs.ucdavis.edu/bishop/secprog/robust.html
+
 ## Tools
 
 ### Visual Studio
